@@ -42,7 +42,7 @@
   "play_success": ":tada: successed!",
   "theme_help": "you can change the Lo-Fi theme I'm going to play",
   "theme_found": ":cd: I found %1$s theme",
-  "theme_submit": "[Additional submition](%1$s)",
+  "theme_submit": "[Additional submission](%1$s)",
   "theme_loading": ":floppy_disk: loading the theme list",
   "theme_timeout": ":hourglass_flowing_sand: oops, timeout!",
   "theme_success": ":ok_hand: set theme to `%1$s`",
