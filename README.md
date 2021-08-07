@@ -19,7 +19,7 @@ LofiGirl 번역 프로젝트에 오신것을 환영합니다!
 * 번역 파일은 `<언어ID>.json` 파일을 만들어 작성하면 됩니다.
 
 ## 🇺🇸 en_US
-elcome to LofiGirl translation project! 
+Welcome to the LofiGirl translation project! 
 
 We **Lofi with Discord** always try to support many languages for users in different countries.
 
@@ -27,7 +27,7 @@ However, our team has many difficulties in supporting multilingualism because it
 
 If you contribute to multilingual support through this repository tree, it will help our team a lot.
 
-If you wish to contribute, please send us PR after meeting the following.:
+If you wish to contribute, please send us PR after fulfilling the following.:
 * Please keep the Language ID '<Country>_<Language:Capital Letter>. (Example: 'ko_KR', 'en_US')
 * Please translate 'README.md' as well. Start by adding '## <flag> <language ID>' at the bottom of this document.
 * For the translation file, you can create and create the file '<language ID>.json>.
